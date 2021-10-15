@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mdddj.lddflutterextension.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mdddj.lddflutterextension.MyBundle
 
 class MyApplicationService {
 
